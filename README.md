@@ -4,7 +4,7 @@
 > **Curia** project (AI-Powered Darija Medical Triage).
 
 **Last updated:** May 22, 2026
-**Maintained by:** Curia team
+**Maintained by:** Najda team
 
 ---
 
